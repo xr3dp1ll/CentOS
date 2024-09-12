@@ -1,4 +1,4 @@
-# CentOS
+# CentOS fix repo update
 
 
 ## backup CentOS-Base.repo
