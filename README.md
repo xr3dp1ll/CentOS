@@ -1,10 +1,8 @@
 # CentOS
 
 
-## ba
+## backup CentOS-Base.repo
 
-
-ckup
 ```bash
 sudo cp /etc/yum.repos.d/CentOS-Base.repo  /etc/yum.repos.d/CentOS-Base.repo.bak
 ```
