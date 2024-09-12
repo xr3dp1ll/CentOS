@@ -26,7 +26,7 @@ sudo firewall-cmd --reload
 ```
 
 ## Verification
-`se hping3 to verify if the ICMP Timestamp messages are successfully dropped:`
+`Use hping3 to verify if the ICMP Timestamp messages are successfully dropped:`
 ```
 sudo hping3 -1 --icmp-ts -c 3 [target IP]
 ```
