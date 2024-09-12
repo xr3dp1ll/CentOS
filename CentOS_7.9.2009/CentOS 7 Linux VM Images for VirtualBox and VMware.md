@@ -3,7 +3,7 @@
 * CentOS 7.9.2009 - Minimal Installation
 * CentOS 7.9.2009 - Graphical Desktop Installation
 
-# SYSTEM DETAILS	LOGIN DETAILS
+## SYSTEM DETAILS	LOGIN DETAILS
 ```
 vCPU: 1
 RAM: 2GB
